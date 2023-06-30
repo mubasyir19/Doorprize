@@ -4,7 +4,6 @@ export default function Document() {
   return (
     <Html lang='en'>
       <Head>
-        <title>My Link | Mahdy Mubasyir</title>
         <meta name='description' content='Mahdy Mubasyir Link' />
         <meta property='og:title' content='Link Management' />
         <meta property='og:description' content='Mahdy Mubasyir Portfolio' />
