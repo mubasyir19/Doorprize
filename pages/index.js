@@ -18,7 +18,7 @@ export default function Home() {
       </div>
       <div className='mt-12 text-white'>
         <ButtonImage
-          link={'https://mahdy-mubasyir.vercel.app/'}
+          link={'https://mahdy-mubasyir.my.id/'}
           image={'/logo.png'}
           text={'Portfolio'}
           bgColor={'bg-blue-900'}
