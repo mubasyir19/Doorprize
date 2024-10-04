@@ -12,6 +12,7 @@ module.exports = {
       },
       backgroundImage: {
         background: "url('/background.jpg')",
+        jong: "url('/bg-heyjong.jpg')",
       },
     },
   },

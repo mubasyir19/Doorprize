@@ -21,7 +21,8 @@ export function ButtonIcon({ link, icon, text, bgColor, border }) {
         className={`${bgColor} w-full py-3 rounded-md flex justify-center gap-x-2 ${border}`}
         target='_blank'
       >
-        <Icon icon={`skill-icons:${icon}`} className='text-2xl' />
+        {/* <Icon icon={`skill-icons:${icon}`} className='text-2xl' /> */}
+        <Icon icon={`${icon}`} className='text-2xl my-auto' />
         {text}
       </a>
     </div>
